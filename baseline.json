@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "mode": "baseline",
+  "updated_at": "2026-09-22T05:35:24.945987+00:00",
+  "rows": [
+    {
+      "id": "test-agent-001",
+      "grade": 0,
+      "status": "current",
+      "baseline_rates": {
+        "Random": 0.0,
+        "Tactical": 0.0,
+        "Depth-2 Minimax": 0.0
+      }
+    },
+    {
+      "id": "test-agent-002",
+      "grade": 100,
+      "status": "current",
+      "baseline_rates": {
+        "Random": 0.375,
+        "Tactical": 0.0,
+        "Depth-2 Minimax": 0.0
+      }
+    },
+    {
+      "id": "test-agent-003",
+      "grade": 0,
+      "status": "current",
+      "baseline_rates": {
+        "Random": 0.0,
+        "Tactical": 0.0,
+        "Depth-2 Minimax": 0.0
+      }
+    }
+  ]
+}
