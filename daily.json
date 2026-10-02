@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "mode": "daily",
-  "updated_at": "2026-10-02T00:03:41.813808+00:00",
+  "updated_at": "2026-10-02T23:47:41.673200+00:00",
   "rows": [
     {
       "id": "2026011128",
@@ -1024,14 +1024,14 @@
     },
     {
       "id": "2026011126",
-      "qualified": false,
+      "qualified": true,
       "rank": 79,
       "points": 3.0,
       "buchholz": 25.5,
       "wins": 0,
       "draws": 6,
       "losses": 1,
-      "grade": 0.0,
+      "grade": 24.0,
       "bonus_pending_review": 0,
       "status": "current"
     },
