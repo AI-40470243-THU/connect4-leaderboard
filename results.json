@@ -10,7 +10,8 @@
       "wins": 9,
       "draws": 0,
       "losses": 1,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2026040159",
@@ -21,7 +22,8 @@
       "wins": 9,
       "draws": 0,
       "losses": 1,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011128",
@@ -32,7 +34,8 @@
       "wins": 8,
       "draws": 1,
       "losses": 1,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011143",
@@ -43,7 +46,8 @@
       "wins": 7,
       "draws": 1,
       "losses": 2,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011010",
@@ -54,7 +58,8 @@
       "wins": 7,
       "draws": 1,
       "losses": 2,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2026040134",
@@ -65,7 +70,8 @@
       "wins": 7,
       "draws": 1,
       "losses": 2,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011184",
@@ -76,7 +82,8 @@
       "wins": 7,
       "draws": 1,
       "losses": 2,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010535",
@@ -87,7 +94,8 @@
       "wins": 7,
       "draws": 0,
       "losses": 3,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011019",
@@ -98,7 +106,8 @@
       "wins": 7,
       "draws": 0,
       "losses": 3,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011614",
@@ -109,7 +118,8 @@
       "wins": 6,
       "draws": 2,
       "losses": 2,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011126",
@@ -120,7 +130,8 @@
       "wins": 7,
       "draws": 0,
       "losses": 3,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010622",
@@ -131,7 +142,8 @@
       "wins": 7,
       "draws": 0,
       "losses": 3,
-      "bonus_points": 5
+      "bonus_points": 5,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010455",
@@ -142,7 +154,8 @@
       "wins": 5,
       "draws": 4,
       "losses": 1,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011151",
@@ -153,7 +166,8 @@
       "wins": 7,
       "draws": 0,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2025013589",
@@ -164,7 +178,8 @@
       "wins": 7,
       "draws": 0,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011020",
@@ -175,7 +190,8 @@
       "wins": 6,
       "draws": 1,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011108",
@@ -186,7 +202,8 @@
       "wins": 6,
       "draws": 1,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011115",
@@ -197,7 +214,8 @@
       "wins": 6,
       "draws": 1,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011036",
@@ -208,7 +226,8 @@
       "wins": 5,
       "draws": 3,
       "losses": 2,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011110",
@@ -219,7 +238,8 @@
       "wins": 6,
       "draws": 1,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011165",
@@ -230,7 +250,8 @@
       "wins": 6,
       "draws": 1,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2026013293",
@@ -241,7 +262,8 @@
       "wins": 6,
       "draws": 1,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011170",
@@ -252,7 +274,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010488",
@@ -263,7 +286,8 @@
       "wins": 6,
       "draws": 0,
       "losses": 4,
-      "bonus_points": 3
+      "bonus_points": 3,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010297",
@@ -274,7 +298,8 @@
       "wins": 6,
       "draws": 0,
       "losses": 4,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011101",
@@ -285,7 +310,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011154",
@@ -296,7 +322,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010477",
@@ -307,7 +334,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011049",
@@ -318,7 +346,8 @@
       "wins": 6,
       "draws": 0,
       "losses": 4,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011042",
@@ -329,7 +358,8 @@
       "wins": 6,
       "draws": 0,
       "losses": 4,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011099",
@@ -340,7 +370,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011016",
@@ -351,7 +382,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011125",
@@ -362,7 +394,8 @@
       "wins": 6,
       "draws": 0,
       "losses": 4,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011050",
@@ -373,7 +406,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010353",
@@ -384,7 +418,8 @@
       "wins": 5,
       "draws": 2,
       "losses": 3,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011153",
@@ -395,7 +430,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 1
+      "bonus_points": 1,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010397",
@@ -406,7 +442,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011177",
@@ -417,7 +454,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011161",
@@ -428,7 +466,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026040127",
@@ -439,7 +478,8 @@
       "wins": 4,
       "draws": 3,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026013081",
@@ -450,7 +490,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011059",
@@ -461,7 +502,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011045",
@@ -472,7 +514,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011180",
@@ -483,7 +526,8 @@
       "wins": 4,
       "draws": 3,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011117",
@@ -494,7 +538,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011044",
@@ -505,7 +550,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011163",
@@ -516,7 +562,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011183",
@@ -527,7 +574,8 @@
       "wins": 4,
       "draws": 3,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011106",
@@ -538,7 +586,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2024012734",
@@ -549,7 +598,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2024011305",
@@ -560,7 +610,8 @@
       "wins": 5,
       "draws": 1,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011103",
@@ -571,7 +622,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011123",
@@ -582,7 +634,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025013606",
@@ -593,7 +646,8 @@
       "wins": 5,
       "draws": 0,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011130",
@@ -604,7 +658,8 @@
       "wins": 5,
       "draws": 0,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011152",
@@ -615,7 +670,8 @@
       "wins": 5,
       "draws": 0,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011175",
@@ -626,7 +682,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011121",
@@ -637,7 +694,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011006",
@@ -648,7 +706,8 @@
       "wins": 5,
       "draws": 0,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010498",
@@ -659,7 +718,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011063",
@@ -670,7 +730,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011173",
@@ -681,7 +742,8 @@
       "wins": 5,
       "draws": 0,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011065",
@@ -692,7 +754,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011156",
@@ -703,7 +766,8 @@
       "wins": 4,
       "draws": 2,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011067",
@@ -714,7 +778,8 @@
       "wins": 5,
       "draws": 0,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011120",
@@ -725,7 +790,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010653",
@@ -736,7 +802,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011172",
@@ -747,7 +814,8 @@
       "wins": 3,
       "draws": 3,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011159",
@@ -758,7 +826,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010844",
@@ -769,7 +838,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011008",
@@ -780,7 +850,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011174",
@@ -791,7 +862,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011066",
@@ -802,7 +874,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011028",
@@ -813,7 +886,8 @@
       "wins": 3,
       "draws": 3,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010391",
@@ -824,7 +898,8 @@
       "wins": 3,
       "draws": 3,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011118",
@@ -835,7 +910,8 @@
       "wins": 4,
       "draws": 1,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011974",
@@ -846,7 +922,8 @@
       "wins": 4,
       "draws": 0,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2022010894",
@@ -857,7 +934,8 @@
       "wins": 4,
       "draws": 0,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011012",
@@ -868,7 +946,8 @@
       "wins": 4,
       "draws": 0,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011970",
@@ -879,7 +958,8 @@
       "wins": 3,
       "draws": 2,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011155",
@@ -890,7 +970,8 @@
       "wins": 3,
       "draws": 2,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011015",
@@ -901,7 +982,8 @@
       "wins": 4,
       "draws": 0,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026040111",
@@ -912,7 +994,8 @@
       "wins": 3,
       "draws": 2,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011061",
@@ -923,7 +1006,8 @@
       "wins": 3,
       "draws": 2,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011158",
@@ -934,7 +1018,8 @@
       "wins": 3,
       "draws": 2,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011139",
@@ -945,7 +1030,8 @@
       "wins": 3,
       "draws": 2,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011162",
@@ -956,7 +1042,8 @@
       "wins": 4,
       "draws": 0,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011135",
@@ -967,7 +1054,8 @@
       "wins": 3,
       "draws": 2,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011100",
@@ -978,7 +1066,8 @@
       "wins": 4,
       "draws": 0,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011138",
@@ -989,7 +1078,8 @@
       "wins": 4,
       "draws": 0,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011024",
@@ -1000,7 +1090,8 @@
       "wins": 2,
       "draws": 3,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011145",
@@ -1011,7 +1102,8 @@
       "wins": 2,
       "draws": 3,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010266",
@@ -1022,7 +1114,8 @@
       "wins": 3,
       "draws": 1,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011069",
@@ -1033,7 +1126,8 @@
       "wins": 3,
       "draws": 1,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011182",
@@ -1044,7 +1138,8 @@
       "wins": 3,
       "draws": 1,
       "losses": 6,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011030",
@@ -1055,7 +1150,8 @@
       "wins": 0,
       "draws": 7,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010467",
@@ -1066,7 +1162,8 @@
       "wins": 0,
       "draws": 5,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025013357",
@@ -1077,7 +1174,8 @@
       "wins": 0,
       "draws": 7,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011113",
@@ -1088,7 +1186,8 @@
       "wins": 0,
       "draws": 7,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011168",
@@ -1099,7 +1198,8 @@
       "wins": 0,
       "draws": 5,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011181",
@@ -1110,7 +1210,8 @@
       "wins": 0,
       "draws": 7,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026403339",
@@ -1121,7 +1222,8 @@
       "wins": 0,
       "draws": 7,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025013227",
@@ -1132,7 +1234,8 @@
       "wins": 0,
       "draws": 7,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010552",
@@ -1143,7 +1246,8 @@
       "wins": 0,
       "draws": 7,
       "losses": 3,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011134",
@@ -1154,7 +1258,8 @@
       "wins": 0,
       "draws": 5,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026040147",
@@ -1165,7 +1270,8 @@
       "wins": 0,
       "draws": 5,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010553",
@@ -1176,7 +1282,8 @@
       "wins": 0,
       "draws": 4,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011150",
@@ -1187,7 +1294,8 @@
       "wins": 0,
       "draws": 6,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011116",
@@ -1198,7 +1306,8 @@
       "wins": 0,
       "draws": 4,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026010442",
@@ -1209,7 +1318,8 @@
       "wins": 0,
       "draws": 6,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025010507",
@@ -1220,7 +1330,8 @@
       "wins": 0,
       "draws": 4,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026403348",
@@ -1231,7 +1342,8 @@
       "wins": 0,
       "draws": 4,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2025011035",
@@ -1242,7 +1354,8 @@
       "wins": 0,
       "draws": 6,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026400687",
@@ -1253,7 +1366,8 @@
       "wins": 0,
       "draws": 6,
       "losses": 4,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2023011421",
@@ -1264,7 +1378,8 @@
       "wins": 0,
       "draws": 4,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
     },
     {
       "id": "2026011122",
@@ -1275,7 +1390,20 @@
       "wins": 0,
       "draws": 4,
       "losses": 5,
-      "bonus_points": 0
+      "bonus_points": 0,
+      "rank_status": "ranked"
+    },
+    {
+      "id": "2026011146",
+      "final_rank": null,
+      "points": 4.5,
+      "buchholz": 48.0,
+      "nodes_expanded_per_move": 1636.74,
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "bonus_points": 0,
+      "rank_status": "not_ranked_violation"
     }
   ]
 }
